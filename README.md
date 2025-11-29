@@ -1,7 +1,8 @@
 # Financial Fraud Detection – Research Project
 
-This repository contains the implementation of a research project on **Financial Fraud Detection** using real-world transaction dataset. The project was conducted as part of an academic research initiative at **KLE Technological University**, and the resulting paper has been submitted to **CISCom2025-MDPI Journal Computer Science and Mathematics Forum; Paper 
-accepted among top 20% of submissions.**.
+This repository contains the implementation of a research project on **Financial Fraud Detection** using a publicly available transaction dataset. The project was conducted as part of an academic research initiative at **KLE Technological University**.
+
+The resulting paper was submitted to the **CISCom2025 – MDPI Computer Science and Mathematics Forum**, **accepted in the top 20% of submissions**, and **presented during the First International Conference on Computational Intelligence and Soft Computing (CISCom 2025)** held on **26–27 November 2025**.
 
 ## Project Overview
 

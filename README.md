@@ -39,3 +39,6 @@ The resulting paper was submitted to **CISCom2025 – MDPI Computer Science and 
 
 ## Explore the Project
 Feel free to explore the notebooks for a deeper dive into the implementation.
+
+**Dataset Access**  
+Download the dataset used in this study here: [Fraud_Dataset](https://drive.google.com/file/d/1g7M588im5jtGUEmJAWlJ3FCSPs8jllCz/view?usp=sharing)

@@ -6,7 +6,7 @@ This repository contains the implementation of a research project on **Financial
 
 The resulting paper was **published** and presented at the **Computer Science and Mathematics Forum (MDPI)** during the **First International Conference on Computational Intelligence and Soft Computing (CISCom 2025)**. The submission was accepted in the **top 20% of submissions**  
 **DOI:** [10.3390/cmsf2025012001](https://doi.org/10.3390/cmsf2025012001)  
-**Conference Date:** 26–27 November 2025
+**Conference Date:** 26–27 November 2025                                                                                                                                                                             
 **Published On:** 17 December 2025
 
 ## Project Overview
